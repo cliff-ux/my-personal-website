@@ -1,7 +1,25 @@
 body{
     background-color: darksalmon;
+
 }
-<h1{
+#header{
+    text-align: center;
+    color: blue;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    padding: 50px;;
+    text-align: center;
+}
+
+h2{
     text-align: center;
     text-decoration: underline;
+    padding: 10px;
+}
+#title2{
+text-align: center;
 }
